@@ -1,0 +1,12 @@
+var person = {
+
+           name: "saravanabala",
+           age: 21,
+           gender:"male",
+           native : "thanjavur",
+           profession: "fullstackdeveloper",
+}
+  
+console.log(person.name)
+
+o/p saravanabala
