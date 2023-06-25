@@ -1,0 +1,6 @@
+blog of http 1.1 vs http 2
+
+    http 1.1 is nothing but it is reverb processs it can be handle 1 request and 1 respond in at a time
+    
+    http 2  is nothing but it is concurrent process it can be stored a request and reassign the process when it search another time 
+            it can be handle many request and many respond at a time
